@@ -9,6 +9,7 @@ Estrutura de cadastro [ NodeJS + Express + MongoDB ]
 ● Instalar body-parser<br>
 ● Instalar Express<br>
 ● Instalar bcryptjs<br>
-# Opcionais
+
+<b>Opcionais</b>
 
 ● Insomnia (envio de requests)
