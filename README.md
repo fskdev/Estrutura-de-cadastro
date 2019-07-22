@@ -1,15 +1,15 @@
 # Estrutura-de-cadastro
 Estrutura de cadastro [ NodeJS + Express + MongoDB ]
-
+<br>
 # Requisitos
-
-● Instalar node
-● Instalar MongoDB
-● Instalar Yarn
-● Instalar body-parser
-● Instalar Express
-● Instalar bcryptjs
-
+<br>
+● Instalar node<br>
+● Instalar MongoDB<br>
+● Instalar Yarn<br>
+● Instalar body-parser<br>
+● Instalar Express<br>
+● Instalar bcryptjs<br>
+<br>
 # Opcionais
-
+<br>
 ● Insomnia (envio de requests)
